@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Pangolin');
+#button-container {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+}
+
+svg{
+    background-color: lightpink
+}
